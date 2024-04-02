@@ -1,2 +1,3 @@
 rootProject.name = 'test_draft_tms'
+include 'hw_1'
 
